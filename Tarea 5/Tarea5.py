@@ -37,7 +37,7 @@ def AFD(entrada):
                 print('Cadena Correcta')
                 return
         
-        print("Cadena incorrecta")
+    print("Cadena incorrecta")
     
 AFD(a)
 AFD(b)   
