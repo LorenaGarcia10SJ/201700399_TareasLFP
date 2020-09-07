@@ -32,7 +32,7 @@ def AFD(entrada):
                 print("Cadena incorrecta")
                 return    
         elif estado==4: 
-            if entrada[i]=='1':
+            if entrada[i]=='':
                 estado=4
                 print('Cadena Correcta')
                 return
